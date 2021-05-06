@@ -1,0 +1,17 @@
+C:\Users\Regina\source\repos\SzamlaBeadando_KrenczMate\SzamlaBeadando_KrenczMate\obj\Debug\SzamlaBeadando_KrenczMate.csprojAssemblyReference.cache
+C:\Users\Regina\source\repos\SzamlaBeadando_KrenczMate\SzamlaBeadando_KrenczMate\obj\Debug\MainWindow.g.cs
+C:\Users\Regina\source\repos\SzamlaBeadando_KrenczMate\SzamlaBeadando_KrenczMate\obj\Debug\App.g.cs
+C:\Users\Regina\source\repos\SzamlaBeadando_KrenczMate\SzamlaBeadando_KrenczMate\obj\Debug\SzamlaBeadando_KrenczMate_MarkupCompile.cache
+C:\Users\Regina\source\repos\SzamlaBeadando_KrenczMate\SzamlaBeadando_KrenczMate\obj\Debug\SzamlaBeadando_KrenczMate_MarkupCompile.lref
+C:\Users\Regina\source\repos\SzamlaBeadando_KrenczMate\SzamlaBeadando_KrenczMate\obj\Debug\Hiba.g.cs
+C:\Users\Regina\source\repos\SzamlaBeadando_KrenczMate\SzamlaBeadando_KrenczMate\bin\Debug\SzamlaBeadando_KrenczMate.exe.config
+C:\Users\Regina\source\repos\SzamlaBeadando_KrenczMate\SzamlaBeadando_KrenczMate\bin\Debug\SzamlaBeadando_KrenczMate.exe
+C:\Users\Regina\source\repos\SzamlaBeadando_KrenczMate\SzamlaBeadando_KrenczMate\bin\Debug\SzamlaBeadando_KrenczMate.pdb
+C:\Users\Regina\source\repos\SzamlaBeadando_KrenczMate\SzamlaBeadando_KrenczMate\obj\Debug\MainWindow.baml
+C:\Users\Regina\source\repos\SzamlaBeadando_KrenczMate\SzamlaBeadando_KrenczMate\obj\Debug\Hiba.baml
+C:\Users\Regina\source\repos\SzamlaBeadando_KrenczMate\SzamlaBeadando_KrenczMate\obj\Debug\SzamlaBeadando_KrenczMate.g.resources
+C:\Users\Regina\source\repos\SzamlaBeadando_KrenczMate\SzamlaBeadando_KrenczMate\obj\Debug\SzamlaBeadando_KrenczMate.Properties.Resources.resources
+C:\Users\Regina\source\repos\SzamlaBeadando_KrenczMate\SzamlaBeadando_KrenczMate\obj\Debug\SzamlaBeadando_KrenczMate.csproj.GenerateResource.cache
+C:\Users\Regina\source\repos\SzamlaBeadando_KrenczMate\SzamlaBeadando_KrenczMate\obj\Debug\SzamlaBeadando_KrenczMate.csproj.CoreCompileInputs.cache
+C:\Users\Regina\source\repos\SzamlaBeadando_KrenczMate\SzamlaBeadando_KrenczMate\obj\Debug\SzamlaBeadando_KrenczMate.exe
+C:\Users\Regina\source\repos\SzamlaBeadando_KrenczMate\SzamlaBeadando_KrenczMate\obj\Debug\SzamlaBeadando_KrenczMate.pdb
